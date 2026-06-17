@@ -108,7 +108,6 @@ T2/1.py          读取高光谱影像，选取 3 个波段生成假彩色图
 T2/2.py          根据 ground truth 标注提取典型地物，绘制平均光谱曲线
 T2/hsi_utils.py  通用工具函数，用于识别 .mat 变量、读取数据和选择类别
 requirements.txt Python 依赖列表
-report.md        简短解题报告
 ```
 
 ## 可选参数
