@@ -6,3 +6,9 @@ __pycache__/
 
 # Downloaded hyperspectral datasets. Keep download instructions in README instead.
 data/*.mat
+
+# Downloaded remote-sensing rasters are large and should be downloaded separately.
+*.tif
+*.tiff
+data/*.tif
+data/*.tiff
